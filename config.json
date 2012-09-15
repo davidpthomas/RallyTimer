@@ -1,0 +1,12 @@
+{
+    "name": "RallyTimer",
+    "className": "CustomApp",
+    "sdk": "2.0p3",
+    "javascript": [
+        "Timer.js",
+        "App.js"
+    ],
+    "css": [
+        "app.css"
+    ]
+}

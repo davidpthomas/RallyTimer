@@ -1,0 +1,12 @@
+.app {
+     /* Add app styles here */
+  height: 120px
+}
+
+.digits {
+  font-family: 'Fredericka the Great', cursive;
+  font-size: 6.5em;
+  text-align: center;
+  font-style: bold;
+}
+
